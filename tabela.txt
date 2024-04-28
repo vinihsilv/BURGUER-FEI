@@ -1,0 +1,8 @@
+Código - Produto - Preço 
+   1 - X-Salada - R$ 10.00 
+   2 - X-Burger - R$ 10,00 
+   3 - Cachorro quente - R$ 7,50 
+   4 - Misto Quente - R$ 8,00 
+   5 - Salada de Frutas - R$ 5,00 
+   6 - Refrigerante - R$ 4,50 
+   7 - Suco Natural - R$ 6,25 
